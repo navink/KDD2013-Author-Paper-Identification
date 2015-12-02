@@ -1,0 +1,5 @@
+{
+    "model_path": "Models/basicCoauthorBenchmarkRev3.pickle",
+    "submission_path": "Submissions/basicCoauthorBenchmarkRev3.csv",
+    "postgres_conn_string": "host='localhost' dbname='Kdd2013AuthorPaperIdentification' user='postgres' password='navin123'"
+}
